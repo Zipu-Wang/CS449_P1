@@ -3,10 +3,6 @@ Luis OliveiraGeneral InfoSyllabusScheduleResourcesFor FunLabsProjects
 Project 1 - Hiding data: Reading files
 Released: 23:59 Monday, February 5th, 2024.
 
-Due: 17:59 Monday, February 19th, 2024.
-
-Let's hide images within images!
-
 Steganography
 The art of secret writing; cryptography. Also, cryptographic script, cipher.
 
